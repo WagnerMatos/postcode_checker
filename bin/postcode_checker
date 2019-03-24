@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'postcode_checker'
 
 postcode = ARGV.first
-checker = PostcodeChecker::Whitelister.new(postcode)
+checker = PostcodeChecker::Checker.new(postcode)
 valid = false
 valid = true if checker.postcode_service_check
 puts valid

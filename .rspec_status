@@ -1,13 +1,13 @@
 example_id                                         | status | run_time        |
 -------------------------------------------------- | ------ | --------------- |
-./spec/postcode_checker/connector_spec.rb[1:1:1]   | passed | 0.10935 seconds |
-./spec/postcode_checker/connector_spec.rb[1:1:2]   | passed | 0.05086 seconds |
-./spec/postcode_checker/connector_spec.rb[1:1:3]   | passed | 0.05958 seconds |
-./spec/postcode_checker/whitelister_spec.rb[1:1:1] | passed | 0.00021 seconds |
-./spec/postcode_checker/whitelister_spec.rb[1:1:2] | passed | 0.06572 seconds |
-./spec/postcode_checker/whitelister_spec.rb[1:1:3] | passed | 0.05905 seconds |
-./spec/postcode_checker_spec.rb[1:1]               | passed | 0.00009 seconds |
-./spec/ukpostcode_gem_spec.rb[1:1:1]               | passed | 0.00936 seconds |
-./spec/ukpostcode_gem_spec.rb[1:1:2]               | passed | 0.00036 seconds |
-./spec/ukpostcode_gem_spec.rb[1:1:3]               | passed | 0.00008 seconds |
-./spec/ukpostcode_gem_spec.rb[1:1:4]               | passed | 0.00007 seconds |
+./spec/postcode_checker/connector_spec.rb[1:1:1]   | passed | 0.14639 seconds |
+./spec/postcode_checker/connector_spec.rb[1:1:2]   | passed | 0.05579 seconds |
+./spec/postcode_checker/connector_spec.rb[1:1:3]   | passed | 0.05441 seconds |
+./spec/postcode_checker/whitelister_spec.rb[1:1:1] | passed | 0.00015 seconds |
+./spec/postcode_checker/whitelister_spec.rb[1:1:2] | passed | 0.06402 seconds |
+./spec/postcode_checker/whitelister_spec.rb[1:1:3] | passed | 0.05579 seconds |
+./spec/postcode_checker_spec.rb[1:1]               | passed | 0.0001 seconds  |
+./spec/ukpostcode_gem_spec.rb[1:1:1]               | passed | 0.01416 seconds |
+./spec/ukpostcode_gem_spec.rb[1:1:2]               | passed | 0.001 seconds   |
+./spec/ukpostcode_gem_spec.rb[1:1:3]               | passed | 0.00012 seconds |
+./spec/ukpostcode_gem_spec.rb[1:1:4]               | passed | 0.00009 seconds |

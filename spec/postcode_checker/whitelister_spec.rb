@@ -1,4 +1,4 @@
-RSpec.describe PostcodeChecker::Whitelister do
+RSpec.describe PostcodeChecker::Checker do
   let(:config_file) { File.expand_path('lib/config/config.json') }
   let(:valid_pc) { described_class.new('SE1 7QD') }
   let(:invalid_pc) { described_class.new('BH15 1EQ') }

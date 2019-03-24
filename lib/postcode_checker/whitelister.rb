@@ -3,7 +3,7 @@ require_relative '../postcode_checker/connector'
 
 module PostcodeChecker
   # class that handles whitelisting of given postcode
-  class Whitelister
+  class Checker
     attr_reader :postcode, :lsoas, :postcode_lsoa, :formatted_pc
 
     def initialize(postcode)
