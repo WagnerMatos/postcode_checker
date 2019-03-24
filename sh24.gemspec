@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary      = 'Check if a given postcode area is serviceable'
   spec.description  = 'Given a postcode and a config determine whether the
 postcode is within a serviceable areas'
-  spec.homepage     = 'https://github.com/WagnerMatos/allocator'
+  spec.homepage     = 'https://github.com/WagnerMatos/postcode_checker.git'
   spec.license      = 'MIT'
 
   spec.required_ruby_version = '~> 2.2'
