@@ -13,12 +13,10 @@ Documentation for the Postcodes.io API can be found at http://postcodes.io/
 For an example, you can either simulate the API on postcodes.io itself, or you could run:
 
 ## Usage
-I have set the whole thing up as a Ruby gem for simplicity sake.
-
 In the root folder of the project simply execute `bundle install` to pull in the libraries needed to run the code. Please note that you will need Ruby version 2.2 or higher to be able to run this.
 
 Once you have bundled the dependencies, simply run the programme passing it a web server log file. There's an exemplary file included in the project, so the following works:
-`bin/checker "SE1 7QD"`
+`bin/postcode_checker "SE1 7QD"`
 
 
 ## Considerations

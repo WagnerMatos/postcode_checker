@@ -1,3 +1,5 @@
 source 'https://rubygems.org'
 
-gemspec
+gem 'faraday'
+gem 'rspec'
+gem 'uk_postcode', '~> 2.1.0'
