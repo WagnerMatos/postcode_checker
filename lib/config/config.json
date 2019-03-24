@@ -1,0 +1,12 @@
+{
+  "whitelist": {
+    "lsoas": [
+      "Southwark",
+      "Lambeth"
+    ],
+    "postcodes": [
+      "SH24 1AA",
+      "SH24 1AB"
+    ]
+  }
+}
